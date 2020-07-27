@@ -215,7 +215,7 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-text</artifactId>
-      <version>1.8</version>
+      <version>1.9</version>
       <scope>test</scope>
       <exclusions>
         <exclusion><!-- Jenkins 2.176.1 requires a newer version -->
